@@ -77,13 +77,13 @@ button:hover {
     color: #000000;
 }
 
-.calc button#decpoint {
-    background-color: #FF812A;
+.calc button.btn-number {
+    background-color: #DEDEDE;
     color: #000000;
 }
 
-.calc button.btn-number {
-    background-color: #DEDEDE;
+.calc button.btn-decpoint {
+    background-color: #FF812A;
     color: #000000;
 }
 
